@@ -1,12 +1,12 @@
 ---
-title: Name
-name: Name-2
-subtitle: Position
+title: Google Actions
+name: actions
+subtitle: actions, Dialogflow
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: assistant.jpg
+thumbnail: assistant.jpg
 alt: Picture of TBD
-topic: Topic
-description: More Info
+topic: Actions, DialogFlow
+description: Stiamo utilizzando sempre di più la voce per interagire con i nostri dispositivi. Scopri come creare nuove action per il Google Assistant ed il Google Home con Dialogflow.
 ---

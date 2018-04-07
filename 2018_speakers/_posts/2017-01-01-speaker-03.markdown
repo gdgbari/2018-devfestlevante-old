@@ -1,12 +1,12 @@
 ---
-title: Name
-name: Name-3
-subtitle: Position
+title: Android
+name: android
+subtitle: Android, Kotlin, Android Things
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: android.jpg
+thumbnail: android.jpg
 alt: Picture of TBD
-topic: Topic
-description: More Info
+topic: Android, Kotlin
+description: Benvenuti nell'universo Android. Stiamo preparando 2 workshop con protagonista il bagherozzo verde. Parleremo di Kotlin il nuovo linguaggi di programmazione di IntelliJ e di Android Things, la versione di Android per l'Internet of Things
 ---
