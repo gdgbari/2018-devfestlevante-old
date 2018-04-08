@@ -1,0 +1,10 @@
+---
+title: GDG Bari
+name: gdgbari
+subtitle: 
+layout: 2017_default
+img: gdgbari.jpg
+thumbnail: gdgbari.jpg
+alt: Gdgbari
+description: Gdgbari
+---

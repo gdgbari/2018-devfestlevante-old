@@ -3,9 +3,9 @@ color:
   primary: FF9800
   secondary: 3F51B5
   secondary-dark: 303F9F
-  muted: C5CAE9
+  muted: 212121
 
 # Font Families
 font:
   primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  secondary: '"Roboto", "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
