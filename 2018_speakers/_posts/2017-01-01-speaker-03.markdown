@@ -1,12 +1,12 @@
 ---
-title: Android
+title: Kotlin 101
 name: android
-subtitle: Android, Kotlin, Android Things
+subtitle: Roberto Orgiu - GDE Android
 layout: 2017_default
 modal-id: 1
-img: android.jpg
-thumbnail: android.jpg
+img: roberto_orgiu.jpg
+thumbnail: roberto_orgiu.jpg
 alt: Picture of TBD
 topic: Android, Kotlin, IoT
-description: Benvenuti nell'universo Android. Stiamo preparando 2 workshop con protagonista il bagherozzo verde. Parleremo di Kotlin il nuovo linguaggi di programmazione di IntelliJ e di Android Things, la versione di Android per l'Internet of Things
+description: Benvenuti nell'universo Android! Roberto Orgiu, GDE Android ci introdurrà Kotlin il nuovo linguaggi di programmazione di IntelliJ e promosso come linguaggio principale su Android insieme a Java
 ---

@@ -3,6 +3,7 @@ title: WTM
 name: wtm
 subtitle: 
 layout: 2017_default
+link: https://www.facebook.com/womentechmakersit/
 img: WTM.jpg
 thumbnail: WTM.jpg
 alt: wtm

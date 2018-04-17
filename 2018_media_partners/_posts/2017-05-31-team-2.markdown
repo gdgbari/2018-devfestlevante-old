@@ -1,0 +1,11 @@
+---
+title: Acadevmy
+name: acadevmy
+subtitle: 
+layout: 2017_default
+link: https://www.acadevmy.it/
+img: acadevmy.jpg
+thumbnail: acadevmy.jpg
+alt: acadevmy
+description: acadevmy
+---

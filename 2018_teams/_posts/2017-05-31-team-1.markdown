@@ -3,6 +3,7 @@ title: GDG Bari
 name: gdgbari
 subtitle: 
 layout: 2017_default
+link: https://www.meetup.com/GDG-bari/
 img: gdgbari.jpg
 thumbnail: gdgbari.jpg
 alt: Gdgbari

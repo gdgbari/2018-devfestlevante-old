@@ -1,0 +1,11 @@
+---
+title: GDG Catania
+name: gdgcatania
+subtitle: 
+layout: 2017_default
+link: https://www.meetup.com/GDG-Catania/
+img: gdg1024.png
+thumbnail: gdg1024.png
+alt: gdgcatania
+description: Gdgcatania
+---

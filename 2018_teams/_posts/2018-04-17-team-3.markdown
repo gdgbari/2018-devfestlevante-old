@@ -1,0 +1,11 @@
+---
+title: Club Degli Sviluppatori
+name: cds
+subtitle: 
+layout: 2017_default
+link: https://www.facebook.com/groups/cdspuglia/
+img: club.jpg
+thumbnail: club.jpg
+alt: cds
+description: cds
+---

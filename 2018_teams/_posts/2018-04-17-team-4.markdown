@@ -1,0 +1,11 @@
+---
+title: Alumni Mathematica
+name: alumnimat
+subtitle: 
+layout: 2017_default
+link: http://alumnimathematica.org/
+img: alumni.jpg
+thumbnail: alumni.jpg
+alt: alumnimat
+description: alumni mathematica
+---
