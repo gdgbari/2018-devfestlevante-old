@@ -1,12 +1,13 @@
 ---
-title: Tensorflow
+title: TensorFlow Workshop
 name: Tensorflow
-subtitle: Machine Learning
+subtitle: Simone Scardapane - GDE Machine Learning
 layout: 2017_default
-modal-id: 1
-img: tensorflow.jpg
-thumbnail: tensorflow.jpg
+modal-id: 2
+img: simone.jpg
+thumbnail: simone.jpg
 alt: Picture of TBD
 topic: Machine learning, intelligenza artificiale
-description: Vorresti approfondire l'intelligenza artificiale? Sai cosa è il machine learning? Stiamo organizzando che ti porterà a lavorare con Tensorflow, il framework di Google per il Machine Learning. 
+description: "TensorFlow è un framework di machine learning rilasciato da Google e rapidamente diventato una delle librerie più usate (e più complete) nel campo. In questo workshop impareremo come utilizzarlo per implementare algoritmi predittivi e di classificazione, in tre parti: (1) utilizzo di estimator; (2) creazione di modelli personalizzati; (3) interfacciamento a basso livello con la eager execution. Vedremo anche rapidamente come interagire con l'ambiente mobile ed embedded, e come usufruire dei servizi in cloud"
+bio: "Simone Scardapane è un assegnista di ricerca alla Sapienza specializzato in machine learning. E' co-fondatore della Italian Association for Machine Learning (un'associazione di promozione culturale), organizza due Meetup tecnici a Roma, tra cui la prima community italiana di TensorFlow, ed è Google Developer Expert per il machine learning. Prima del dottorato, ha conseguito una laurea in Ingegneria Informatica a Roma Tre ed una specializzazione in Intelligenza Artificiale e Robotica alla Sapienza."
 ---

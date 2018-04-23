@@ -1,0 +1,11 @@
+---
+title: Italian Association for Machine Learning
+name: iaml
+subtitle: 
+layout: 2017_default
+link: https://www.iaml.it/
+img: IAML_logo_viola.png
+thumbnail: IAML_logo_viola.png
+alt: iaml
+description: iaml
+---
