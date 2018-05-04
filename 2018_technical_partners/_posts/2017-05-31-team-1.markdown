@@ -1,0 +1,11 @@
+---
+title: Math2B
+name: math2b
+subtitle: 
+layout: 2017_default
+link: http://www.math2b.it/
+img: math2B.png
+thumbnail: math2B.png
+alt: math2b
+description: Math2B
+---
